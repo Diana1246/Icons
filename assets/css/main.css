@@ -1,0 +1,160 @@
+.flex-container {
+    max-width: 1000px;
+    max-height: 300px;
+    background-color: white;
+    position: absolute;
+    display: flex;
+}
+.circul-1 {
+    width: 90px;
+    height:  90px;
+    border-radius: 50px;
+    background-color:  white;
+    left: 50px;
+    top: 100px;
+    position: relative;
+    box-shadow: 0px 4px 20px 0px grey; 
+}
+.circul-1 svg {
+position: relative;
+top: 20px;
+left:  15px;
+width: 60px;
+}
+.circul-1 p {
+    font-size: 16px;
+    width: 175px;
+    top: 40px;
+    position: relative;
+    left: -30px;
+    font-family: 'Montserrat', sans-serif
+}
+.small-circul-1 {
+    background-color:  #79C0AA;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    border-radius: 50px;
+left: 70px;
+top: -40px;
+}
+.small-circul-1 p {
+    color: white;
+    position: relative;
+    top: 5px;
+    left: 7px;
+}
+.circul-2{
+    width: 90px;
+    height:  90px;
+    border-radius: 50px;
+    background-color:  white;
+    left: 230px;
+    top: -126px;
+    position: relative;
+    box-shadow: 0px 4px 20px 0px grey;    
+}
+.circul-2 svg{
+    position: relative;
+    top: 23px;
+    left: 13px;
+}
+.circul-2 p {
+    font-size: 16px;
+    width: 195px;
+    top: 40px;
+    position: relative;
+    left: -15px;
+    font-family: 'Montserrat', sans-serif
+}
+.small-circul-2 {
+   background-color:  #79C0AA ;
+   width: 30px;
+   height: 30px;
+   border-radius: 50px;
+   top: -40px;
+   left: 70px;
+   position: relative;
+}
+.small-circul-2 p {
+    color: white;
+    position: relative;
+    top: 6px;
+    left: 6px;
+}
+.circul-3 {
+    width: 90px;
+    height:  90px;
+    border-radius: 50px;
+    background-color:  white;
+    left: 230px;
+    top: -126px;
+    position: relative;
+    box-shadow: 0px 4px 20px 0px grey;    
+}
+.circul-3 svg {
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+.circul-3 p{
+    font-size: 16px;
+    width: 255px;
+    top: 30px;
+    position: relative;
+    left: -60px;
+    font-family: 'Montserrat', sans-serif;
+}
+.small-circul-3 {
+    background-color:  #79C0AA;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    border-radius: 50px;
+left: 70px;
+top: -50px;
+}
+.small-circul-3 p {
+    color: white;
+    position: relative;
+    top: 6px;
+    left: 6px;
+}
+.circul-4 {
+    width: 90px;
+    height:  90px;
+    border-radius: 50px;
+    background-color:  white;
+    left: 230px;
+    top: -138px;
+    position: relative;
+    box-shadow: 0px 4px 20px 0px grey;    
+}
+.circul-4 svg{
+    position: relative;
+    top: 22px;
+    left: 17px;
+}
+.circul-4 p{
+    font-size: 16px;
+    width: 195px;
+    top: 30px;
+    position: relative;
+    left: 12px;
+    font-family: 'Montserrat', sans-serif
+}
+.small-circul-4 {
+    background-color:  #79C0AA ;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    top: -185px;
+    left: 305px;
+    position: relative;
+}
+.small-circul-4 p {
+    color: white;
+    position: relative;
+    top: 6px;
+    left: 6px;
+}
